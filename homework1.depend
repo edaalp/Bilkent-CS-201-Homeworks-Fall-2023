@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1697731907 source:c:\users\dlprs\onedrive\masaüstü\bahar 2023\cs201(allah belasýný versin bu dersin)\hw3\homework1\main.cpp
+	<iostream>
+	"IssueTrackingSystem.h"
+
+1697733194 source:c:\users\dlprs\onedrive\masaüstü\bahar 2023\cs201(allah belasýný versin bu dersin)\hw3\homework1\issuetrackingsystem.cpp
+	<iostream>
+	"IssueTrackingSystem.h"
+	<string>
+
+1697733151 c:\users\dlprs\onedrive\masaüstü\bahar 2023\cs201(allah belasýný versin bu dersin)\hw3\homework1\issuetrackingsystem.h
+	<iostream>
+	"employee.h"
+	"issue.h"
+
+1697729231 source:c:\users\dlprs\onedrive\masaüstü\bahar 2023\cs201(allah belasýný versin bu dersin)\hw3\homework1\issue.cpp
+	<iostream>
+	"issue.h"
+
+1697728978 c:\users\dlprs\onedrive\masaüstü\bahar 2023\cs201(allah belasýný versin bu dersin)\hw3\homework1\issue.h
+	<iostream>
+	"employee.h"
+
+1697731972 c:\users\dlprs\onedrive\masaüstü\bahar 2023\cs201(allah belasýný versin bu dersin)\hw3\homework1\employee.h
+	<iostream>
+
+1697731972 source:c:\users\dlprs\onedrive\masaüstü\bahar 2023\cs201(allah belasýný versin bu dersin)\hw3\homework1\employee.cpp
+	<iostream>
+	"employee.h"
+
+1698593493 source:c:\users\dlprs\onedrive\masaüstü\fall 2023\cs 201\homework1\employee.cpp
+	<iostream>
+	"employee.h"
+
+1698593493 c:\users\dlprs\onedrive\masaüstü\fall 2023\cs 201\homework1\employee.h
+	<iostream>
+
+1698062210 source:c:\users\dlprs\onedrive\masaüstü\fall 2023\cs 201\homework1\issue.cpp
+	<iostream>
+	"issue.h"
+
+1698062208 c:\users\dlprs\onedrive\masaüstü\fall 2023\cs 201\homework1\issue.h
+	<iostream>
+	"employee.h"
+
+1698606329 source:c:\users\dlprs\onedrive\masaüstü\fall 2023\cs 201\homework1\issuetrackingsystem.cpp
+	<iostream>
+	"IssueTrackingSystem.h"
+	<string>
+
+1698581690 c:\users\dlprs\onedrive\masaüstü\fall 2023\cs 201\homework1\issuetrackingsystem.h
+	<iostream>
+	"employee.h"
+	"issue.h"
+
+1698606618 source:c:\users\dlprs\onedrive\masaüstü\fall 2023\cs 201\homework1\main.cpp
+	<iostream>
+	"IssueTrackingSystem.h"
+
